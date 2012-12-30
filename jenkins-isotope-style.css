@@ -19,7 +19,8 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("http://www.gravatar.com/avatar/2515856e4452ac935394c3b5556ef323.png") 0 0 no-repeat;
+    background: url("http://upload.wikimedia.org/wikipedia/commons/9/9a/PNG_transparency_demonstration_2.png") 0 0 no-repeat;
+    background-size: 20% Auto;
     display: block;
     width: 130px;
     height: 40px;
